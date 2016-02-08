@@ -8,7 +8,7 @@ Nyt kansio on kopioitu lokaalisti. Tämän jälkeen suorita git pull. Tämä kom
 
 Kun olet päivitellyt jotakin kansiossa ja haluat työntää sen gittiin muille saatavaksi:
 
-git add -a
+git add -A
 
 Tämä komento lisää kaikki tehdyt muutokset jonoon.
 
